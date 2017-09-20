@@ -1,0 +1,7 @@
+C:\Users\Becia\source\repos\Events_Subskryber_Blogger\Events_Subskryber_Blogger\obj\Debug\Events_Subskryber_Blogger.csprojResolveAssemblyReference.cache
+C:\Users\Becia\source\repos\Events_Subskryber_Blogger\Events_Subskryber_Blogger\obj\Debug\Events_Subskryber_Blogger.csproj.CoreCompileInputs.cache
+C:\Users\Becia\source\repos\Events_Subskryber_Blogger\Events_Subskryber_Blogger\bin\Debug\Events_Subskryber_Blogger.exe.config
+C:\Users\Becia\source\repos\Events_Subskryber_Blogger\Events_Subskryber_Blogger\bin\Debug\Events_Subskryber_Blogger.exe
+C:\Users\Becia\source\repos\Events_Subskryber_Blogger\Events_Subskryber_Blogger\bin\Debug\Events_Subskryber_Blogger.pdb
+C:\Users\Becia\source\repos\Events_Subskryber_Blogger\Events_Subskryber_Blogger\obj\Debug\Events_Subskryber_Blogger.exe
+C:\Users\Becia\source\repos\Events_Subskryber_Blogger\Events_Subskryber_Blogger\obj\Debug\Events_Subskryber_Blogger.pdb
